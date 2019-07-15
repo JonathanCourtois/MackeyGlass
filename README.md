@@ -17,5 +17,5 @@ in Julia of Matlab code, available [here](https://ww2.mathworks.cn/matlabcentral
  plot(T, X, label = "Mackey Glass")
 ```
 <p align="center">
-<img width="400px" src="https://github.com/JonathanCourtois/Mackey-Glass-Generator/blob/master/MGplot.png"/>
+<img width="400px" src="https://github.com/JonathanCourtois/MackeyGlass/blob/master/MGplot.png"/>
 </p>
