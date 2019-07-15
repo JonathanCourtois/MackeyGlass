@@ -1,0 +1,7 @@
+name = "MackeyGlass"
+uuid = "978f000c-a708-11e9-232f-d1266e1841f8"
+authors = ["jonathan courtois <courtois.pauc.jonathan@gmail.com>"]
+version = "0.2.0"
+
+[compat]
+julia = "1"
