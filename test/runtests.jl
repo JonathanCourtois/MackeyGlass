@@ -1,3 +1,4 @@
-using MackeyGlass
+include("MackeyGlass.jl")
+
 
 X, T = MGGenerator();
